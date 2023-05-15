@@ -18,4 +18,8 @@ export const GlobalStyles = createGlobalStyle`
     body {
         font-family:'Pretendard-Regular' ;
     }
+    h2 {
+        font-size: 24px;
+        font-weight: bold;
+    }
 `;

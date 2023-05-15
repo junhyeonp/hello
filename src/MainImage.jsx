@@ -35,6 +35,7 @@ const MainTitle = styled.div`
   color: white;
   z-index: 99;
 `;
+
 const SubTitle = styled.div`
   padding-left: 10px;
   font-size: 48px;
@@ -51,7 +52,6 @@ export default function MainImage() {
       />
       <MainTitle>
         <div>Apple</div>
-        <SubTitle>한국, 애플페이 전격 출시</SubTitle>
         <SubTitle>한국, 애플페이 전격 출시</SubTitle>
       </MainTitle>
     </ContainerImage>
