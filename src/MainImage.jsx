@@ -52,6 +52,7 @@ export default function MainImage() {
       <MainTitle>
         <div>Apple</div>
         <SubTitle>한국, 애플페이 전격 출시</SubTitle>
+        <SubTitle>한국, 애플페이 전격 출시</SubTitle>
       </MainTitle>
     </ContainerImage>
   );
